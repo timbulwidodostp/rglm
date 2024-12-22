@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rglm': Robust generalized linear models Use rglm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rglm.ado
+f rglm.hlp
