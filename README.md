@@ -3,6 +3,8 @@ Robust generalized linear models Use rglm With STATA 18
 
 Generalized linear models with robust variance estimates Use rglm With STATA 18
 
+https://www.youtube.com/watch?v=NQkdN-bFQJ4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
